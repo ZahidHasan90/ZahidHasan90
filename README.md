@@ -23,6 +23,8 @@ Hello! I’m Zahid Hasan, a passionate student at Yokohama System Engineering Co
 ## Projects
 - **Project Name 1:** Shoping Site.
 - **Project Name 2:** Online Book shop.
+- **Project Name To-Do App
+- 
 - 
 - ## Certifications
 - **Web クリエイター能力認定試験/HTML5**
@@ -35,7 +37,7 @@ Hello! I’m Zahid Hasan, a passionate student at Yokohama System Engineering Co
 - Artificial Intelligence
 
 ## Contact
-- **Email:** [marinerjahid5@gmail.com]
+- **Email:** [230052sc@yse-c.net]
 - **LinkedIn:** [www.linkedin.com/in/hasanzahid90]
 
 
