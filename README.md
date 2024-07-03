@@ -9,7 +9,7 @@
 Hello! I’m Zahid Hasan, a passionate student at Yokohama System Engineering College, specializing in Global IT Systems. With a strong foundation in system engineering, I am keen on developing innovative solutions and contributing to the tech community. I have a particular interest in software development, cybersecurity, and data analytics.
 
 ## Skills
-- **Programming Languages:** Python, Java, C++
+- **Programming Languages:** Python, Javascript, C++,PHP.
 - **Tools and Technologies:** Git, Docker, AWS
 - **Areas of Expertise:** Software Development, System Architecture, Network Security
   
