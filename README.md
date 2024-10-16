@@ -1,5 +1,5 @@
 # Zahid Hasan
-![Profile Image](images//pic.JPEG)
+![Profile Image](images/pic.JPEG)
 **Education:** Yokohama System Engineering College
 
 **Field of Study:** Global IT System
