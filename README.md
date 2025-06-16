@@ -19,7 +19,7 @@ Currently, I am working as a **Backend Developer** at **Portia**, where I’m in
 
 ### 🧠 Technical Skills
 - **Languages:** Python, JavaScript, PHP
-- **Tools & Platforms:** Git, Docker, AWS, Linux
+- **Tools & Platforms:** Git, Docker, AWS, Linux, PostgreSQL
 - **Specialties:** Software Development, System Architecture, Network Security
 
 ### 💬 Soft Skills
