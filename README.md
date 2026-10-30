@@ -72,7 +72,7 @@ I own the company's internal **LLM server (Ollama + Open WebUI)** — upgrading 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,ubuntu,nginx,apache,bash&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,ubuntu,nginx,bash&perline=8" /><br/>
   <img src="https://skillicons.dev/icons?i=php,laravel,symfony,python,flask,js,mysql,postgres&perline=8" /><br/>
   <img src="https://skillicons.dev/icons?i=git,github,kubernetes,grafana,prometheus&perline=8" />
 </p>
