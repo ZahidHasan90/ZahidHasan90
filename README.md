@@ -126,15 +126,6 @@ I own the company's internal **LLM server (Ollama + Open WebUI)** — upgrading 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZahidHasan90&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahidHasan90&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <div align="center">
 
 ### 🤝 Open to collaborating on Cloud, Infrastructure & Backend projects
